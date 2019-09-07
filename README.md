@@ -1,4 +1,4 @@
-# GRU_Prediction
+# Attention_Seq2seq-Translation
 
 This repo holds the code for the implementation in my FloydHub article on Attention:
 
