@@ -2,7 +2,7 @@
 
 This repo holds the code for the implementation in my FloydHub article on Attention:
 
-[Link to article]()
+[Link to article](https://blog.floydhub.com/attention-mechanism/)
 
 The notebook containing the walkthrough is *main.ipynb*
 
